@@ -8,8 +8,6 @@
 В результате тестирования выявлены следующие дефекты:
 
 * https://github.com/Lebedeva-Kris/CC-Validator/issues/1
-* https://github.com/Lebedeva-Kris/CC-Validator/issues/2
-* https://github.com/Lebedeva-Kris/CC-Validator/issues/3
 
 ## Описание процесса тестирования ##
 В процессе тестирования использовались следующие артефакты:
